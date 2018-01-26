@@ -23,3 +23,6 @@ Django TTD Demo
 
 ## 1:30 - 1:45
 Discussion and next steps
+
+## 2:00 - 3:00
+Lindsey Dragun guest speaker on accessibility 

@@ -2,7 +2,18 @@
 The best way to learn TDD is to try out yourself.
 
 ## Step 1
-Come up with an idea of a simple python program to run. Should be run on the command line. Avoid using raw input. Strings and math are a good way to get started.
+Should be run on the command line. Avoid using raw input. Strings and math are a good way to get started.
+Try to solve this problem:
+
+Write a function, calculateTip(amount, rating) which calculates how much you need to tip based on the total amount of the bill and the service.
+
+You need to consider the following ratings:
+
+Terrible: tip 0%
+Poor: tip 5%
+Good: tip 10%
+Great: tip 15%
+Excellent: tip 20% 
 
 ## Step 2
 Figure out what the outcomes will be.

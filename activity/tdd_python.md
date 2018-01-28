@@ -1,4 +1,4 @@
-# TTD activity
+# TDD activity
 The best way to learn TDD is to try out yourself.
 
 ## Step 1
@@ -21,20 +21,20 @@ Figure out what the outcomes will be.
 ## Step 3
 Write the tests. Check out the resources section if you get stuck here.
 
-## Step 3
+## Step 4
 Run the tests. These should fail.
 
-## Step 4
+## Step 5
 Now write the code you will need for these tests to be successful.
 
-## Step 5
+## Step 6
 Did your tests pass? Yay skip to step 7.
 
-## Step 6
+## Step 7
 Refactor your code to make your tests pass.
 
-## Step 7
+## Step 8
 Play around. What happens if you make changes to your code? Do your tests always pass? Maybe try to make them fail. 
 
-## Step 8
+## Step 9
 Submit a pull request on this repo with your groups code.

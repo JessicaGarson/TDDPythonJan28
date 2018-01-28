@@ -30,5 +30,20 @@ class TestAdd(unittest.TestCase):
         self.assertEqual(result, 'abcdef')
 
 
+class TestSubtract(unittest.TestCase):
+    """
+    Test the subtract function from the mymath library
+    """
+    def test_subtract_integers(self):
+        result = math.subtract(1, 1)
+        self.assertEqual(result, 0)
+
+    def test_subtract_floats(self):
+        result = math.subtract(1.0, 0.5)
+        self.assertEqual(result, 0.5)
+
+    def test_subtract_strings(self):
+        self.assertRaises(TypeError, math.subtract, ("xyz", "z"))
+
 if __name__ == '__main__':
     unittest.main()
